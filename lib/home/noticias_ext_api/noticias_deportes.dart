@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_login/home/noticias_ext_api/bloc/extapinews_bloc.dart';
-import 'package:google_login/utils/news_repository.dart';
 
 import 'item_noticia.dart';
 
